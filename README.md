@@ -8,8 +8,10 @@ This project predicts food delivery time using a Long Short-Term Memory (LSTM) n
 *Objective:* Accurately predict delivery time based on historical data, enhancing operational efficiency for food delivery services.
 
 *Key Features:*
-~Distance calculation using Haversine formula (converts degrees to radians).
-~Time-series prediction using LSTM, ideal for handling sequential delivery data.
+
+1.Distance calculation using Haversine formula (converts degrees to radians).
+
+2.Time-series prediction using LSTM, ideal for handling sequential delivery data.
 
 *Requirements:*
 Python 3.x
